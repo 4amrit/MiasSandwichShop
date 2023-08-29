@@ -1,0 +1,6 @@
+Tomatos,7.98
+Lettuce,7.98
+Butter,7.98
+Cheese,7.98
+Customised Ham Sandwich,7.98,
+Total:7.98

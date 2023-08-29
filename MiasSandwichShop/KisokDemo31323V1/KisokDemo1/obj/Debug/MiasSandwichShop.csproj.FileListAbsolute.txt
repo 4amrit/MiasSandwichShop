@@ -1,0 +1,10 @@
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\bin\Debug\KisokDemo1.exe.config
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\KisokDemo1.exe
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\KisokDemo1.pdb
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\MiasSandwichShop.csprojResolveAssemblyReference.cache
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\bin\Debug\KisokDemo1.exe
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\bin\Debug\KisokDemo1.pdb
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\KisokDemo1.Properties.Resources.resources
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\MiasSandwichShop.csproj.GenerateResource.Cache
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\KisokDemo1.FrmKiosk2.resources
+\\fsacad02.academic.bmet.ad\StudentHome\Students\bmc192021419\Downloads\MiasSandwichShop\KisokDemo31323V1\KisokDemo1\obj\Debug\KisokDemo1.CustomiseSandwich.resources

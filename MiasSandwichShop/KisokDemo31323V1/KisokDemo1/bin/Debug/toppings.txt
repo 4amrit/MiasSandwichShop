@@ -1,0 +1,4 @@
+1,Butter, 0.30,./toppings/butter.jpg
+33,Cheese, 0.99,./toppings/cheese part2.jpg
+5,Lettuce, 1.20,./toppings/lettuce.jpg
+24,Tomatos, 1.50,./toppings/tomato.jpg
